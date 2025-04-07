@@ -1,5 +1,5 @@
-![FQrabbit's GitHub stats](https://git-hub-readme-stats-p3pv36grr-fqrabbit.vercel.app/api?username=FQrabbit&show_icons=true&theme=moltack&&include_all_commits=true&show=reviews)
-![Top Langs](https://git-hub-readme-stats-p3pv36grr-fqrabbit.vercel.app/api/top-langs/?username=FQrabbit&layout=compact)  
+![FQrabbit's GitHub stats](https://github-readme-stats-coral-two-86.vercel.app/api?username=FQrabbit&show_icons=true&theme=moltack&&include_all_commits=true&show=reviews)
+![Top Langs](https://github-readme-stats-coral-two-86.vercel.app/api/top-langs/?username=FQrabbit&layout=compact)  
 <!--
 **FQrabbit/FQrabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
